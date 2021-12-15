@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2021-12-15T08:12:51Z" finished-at="2021-12-15T08:12:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2021-12-15T08:12:51Z" finished-at="2021-12-15T08:12:51Z">
+      <class name="ToolsPractice.ReggressionTest">
+        <test-method status="PASS" signature="reggressionTest()[pri:0, instance:ToolsPractice.ReggressionTest@6d8a00e3]" name="reggressionTest" duration-ms="9" started-at="2021-12-15T13:42:51Z" finished-at="2021-12-15T13:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reggressionTest -->
+      </class> <!-- ToolsPractice.ReggressionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
