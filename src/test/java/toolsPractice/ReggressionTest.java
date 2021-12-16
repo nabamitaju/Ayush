@@ -1,4 +1,4 @@
-package ToolsPractice;
+package toolsPractice;
 
 import org.testng.annotations.Test;
 
