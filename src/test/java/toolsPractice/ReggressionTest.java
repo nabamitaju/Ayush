@@ -7,6 +7,7 @@ public class ReggressionTest {
 	public void reggressionTest()
 	{
 		System.out.println("hi");
+		System.out.println("Hello Everyone");
 	}
 
 }
